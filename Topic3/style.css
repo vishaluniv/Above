@@ -1,0 +1,17 @@
+h2{
+    color: cadetblue;
+    position: center;
+    /* text-align: center; */
+}
+
+label{
+    color: darkblue;
+    position: center;
+    /* text-align: center; */
+    
+}
+
+.log
+{
+    visibility:hidden;
+}
